@@ -14,7 +14,7 @@
 - Bulleted
 - List
 
-1. Numbered[emoji](./index.html)
+1. Numbered
 2. List
 
 **Bold** and _Italic_ and `Code` text
