@@ -1,4 +1,5 @@
 
+![Alt text](https://png.pngtree.com/58pic/32/69/41/84f58PICitRcMXwz4vDXf_PIC2018.jpg)
 ## Welcome to My GitHub Pages
 
 # 自我介紹
@@ -8,7 +9,7 @@
 - 吃美食
 - 看youtube
 ## 狗狗圖片
-[按我](.\text.html)
+[按我](.\hello.html)
 
 
 ![](https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2020/05/28/realtime/7946248.jpg&x=0&y=0&sw=0&sh=0&sl=W&fw=800&exp=3600&w=930)
