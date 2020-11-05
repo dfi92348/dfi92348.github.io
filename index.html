@@ -8,13 +8,14 @@
     <link rel="stylesheet" href="/assets/css/non-screen.css" media="handheld, only screen and (max-device-width:640px)">
 
     <script src="/assets/js/modernizr.js"></script>
-    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="/assets/js/headsmart.min.js"></script>
     <script>
       $(document).ready(function () {
-        $('#main_content').headsmart();
-       $("button").addClass("animated bounce");
-      })
+       $("p").click(function(){
+    $(this).hide();
+      
+      });
        
     </script>
 
@@ -63,8 +64,11 @@
       <h1>大家好我是朱永旭</h1>
              <table></table>
           <h3>自我介紹</h3>
+          <p>按我會消失.</p>
+<p>再點一次!</p>
+<p>Click me too!</p>
           <p>興趣:</p>
-         <button target" id="target">按我</button>
+        
           <ul>
             <li>看球賽</li>
             <li>吃美食</li>
